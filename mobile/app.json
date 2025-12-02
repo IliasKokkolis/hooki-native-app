@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Hooki",
+    "slug": "hooki",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.hooki"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B6B"
+      },
+      "package": "com.yourcompany.hooki"
+    }
+  }
+}

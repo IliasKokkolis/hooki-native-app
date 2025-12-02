@@ -1,0 +1,32 @@
+========================================
+   HOOKI APP - READY TO CONNECT!
+========================================
+
+BACKEND API: http://192.168.1.20:3000
+EXPO URL: exp://192.168.1.20:8081
+
+CONNECTION INSTRUCTIONS:
+------------------------
+
+Method 1: QR Code (if visible in terminal)
+- Open Expo Go app
+- Tap "Scan QR Code"
+- Point camera at QR code in terminal
+
+Method 2: Manual URL Entry
+- Open Expo Go app
+- Tap "Enter URL manually"
+- Enter this exact URL: exp://192.168.1.20:8081
+- Tap "Connect"
+
+IMPORTANT:
+- Make sure phone and computer are on SAME WiFi network
+- Your phone's WiFi IP should start with 192.168.1.x
+
+TROUBLESHOOTING:
+- If connection fails, check WiFi network match
+- Verify backend is running: http://192.168.1.20:3000/api/health
+- Try restarting Expo: cd mobile && npm start
+
+========================================
+
